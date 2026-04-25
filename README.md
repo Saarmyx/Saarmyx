@@ -1,39 +1,55 @@
-<h1 align="center">Hi, I'm Santiago Sarmiento 👋</h1>
+<h1 align="center">Santiago Sarmiento 👋</h1>
 
 <p align="center">
-  Computer Science & Engineering Student • Builder • Lifelong Learner
+  Mecatronics Engineering Student • Systems Thinker • Builder
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-- 🎓 Computer Science & Engineering undergraduate  
-- 💡 Self-taught developer passionate about building useful and creative solutions  
-- 🚀 Focused on writing clean, efficient, and practical code  
-- 🌱 Currently learning: **Java** & **React.js**
+- 🎓 Mecatronics Engineering student with a focus on solving real-world problems  
+- ⚙️ I like understanding how things work, from code to complex systems  
+- 🧩 I enjoy turning ideas into structured, functional solutions  
+- 🚀 I care about writing clean, efficient code that actually serves a purpose  
+- 🌱 Currently learning: **Java**, **React.js**, and **React Native**
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, Python  
-- **Web:** HTML, React  
-- **Systems:** Linux, Shell  
+- **Languages:** JavaScript, Python, SQL  
+- **Frontend:** HTML, CSS, React  
+- **Mobile:** React Native (learning)  
+- **Systems:** Linux / Shell  
+- **Tools:** Git, GitHub, Markdown  
 
 ---
 
-## 🎯 Interests
+## ⚡ Approach
 
-- Web design  
-- Android development  
-- Digital marketing  
+- Clean, scalable and intentional code  
+- Focus on practical solutions, not just theory  
+- Continuous improvement of systems and workflows  
+- Balance between logic, design and user impact  
+
+---
+
+## 🎯 Areas of Interest
+
+- Software architecture  
+- Web and product development  
+- Android ecosystem  
+- Digital strategy & growth  
 
 ---
 
 ## 🤝 Collaboration
 
-Open to contributing to **open-source projects** and working on interesting ideas.
+I’m open to:
+- Contributing to meaningful **open-source projects**  
+- Building products with real impact  
+- Collaborating with people who value clarity and execution  
 
 ---
 
@@ -45,4 +61,7 @@ Open to contributing to **open-source projects** and working on interesting idea
 
 ## 🌿 Beyond Code
 
-Reading 📖 • Art 🎨 • Music 🎵 • Nature 🌱
+- Reading (systems, strategy, psychology)  
+- Visual design & aesthetics  
+- Music as a focus tool  
+- Time in nature to reset  
