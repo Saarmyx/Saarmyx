@@ -1,33 +1,48 @@
-<h1 align="center">
-  <b>Hi, I'm Santiago Sarmiento</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<h1 align="center">Hi, I'm Santiago Sarmiento 👋</h1>
 
-<br/>
+<p align="center">
+  Computer Science & Engineering Student • Builder • Lifelong Learner
+</p>
 
+---
 
 ## 👨‍💻 About Me
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" align="right" alt="Coding animation">
-</div>
 
-I'm a **Computer Science and Engineering** undergraduate with a strong self-taught foundation. I love building things that are **productive**, **innovative**, and **creatively useful**.
+- 🎓 Computer Science & Engineering undergraduate  
+- 💡 Self-taught developer passionate about building useful and creative solutions  
+- 🚀 Focused on writing clean, efficient, and practical code  
+- 🌱 Currently learning: **Java** & **React.js**
 
-I thrive on learning new technologies and exploring how code can solve real-world problems efficiently and elegantly.
+---
 
-### 🛠️ Technologies I work with:
-- **Languages:** JavaScript, Python   
+## 🛠️ Tech Stack
+
+- **Languages:** JavaScript, Python  
 - **Web:** HTML, React  
-- **Systems:** Shell, Linux
+- **Systems:** Linux, Shell  
 
 ---
 
-- 🎯 **Interests:** Web design, Android development, digital marketing  
-- 🌱 **Currently learning:** Java & React.js  
-- 🤝 **Open to collaborating** on open-source projects  
-- 💬 **Ask me anything** — always happy to share knowledge! 😉  
-- 🌱 **Outside tech:** Reading fiction 📖, sketching & painting 🎨, music 🎵, nature 🌿
+## 🎯 Interests
+
+- Web design  
+- Android development  
+- Digital marketing  
 
 ---
 
-📫 **Reach out:** [saarmyx@gmail.com](mailto:saarmyx@gmail.com)
+## 🤝 Collaboration
+
+Open to contributing to **open-source projects** and working on interesting ideas.
+
+---
+
+## 📬 Contact
+
+- Email: **saarmyx@gmail.com**
+
+---
+
+## 🌿 Beyond Code
+
+Reading 📖 • Art 🎨 • Music 🎵 • Nature 🌱
