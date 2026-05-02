@@ -4,12 +4,6 @@
   Mecatronics Engineering Student • Systems Thinker • Builder
 </p>
 
-<h1 align="center">Santiago Sarmiento 👋</h1>
-
-<p align="center">
-  Mecatronics Engineering Student • Systems Thinker • Founder of Nexora
-</p>
-
 ---
 
 ## 🧠 About Me
